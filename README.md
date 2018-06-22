@@ -6,6 +6,7 @@ I've recently added a dataset taken from wikipedia and converted to CSV format. 
 For now, this repository will include updated statistics as I calculate them, but in the future, it will include more datasets for others to use and enjoy, along with a nicer website to display my findings. I hope you'll shante and stay to learn more!
 
 *Note: This data does not include data from All Stars Seasons due to differences in judging*
+*Additional Note: I am in no way affiliated with RuPaul's Drag Race, or World of Wonder. I'm merely a fan who loves math, data, and drag.*
 
 
 Some updates on what I've learned so far: 
@@ -45,4 +46,15 @@ Mini Challenges
 -----
 
 Ah, mini-challenges. Do they give the winner(s) an advantage? Do they hinder winners? I hope to do more analysis on this, but so far, I've found that **16%** of winners of mini-challenges have won the main challenge in the same episode, while **10%** have been eliminated in the same episode, so it would appear that winning has some benefit.
+
+On Double Saves/Double Eliminations
+-----
+
+There have been a total of 6 double saves in the 10 seasons of RPDR, suggesting that on any given season, the chance of a double save is a toss up. In that time, there have only been 2 double eliminations, both fairly early in the season (Season 5, ep 4 of 13, and Season 8, ep 2 of 10). In the case of double saves, 1 was due to a queen having to leave because of an injury (Eureka, Season 9, ep 5 of 13), and 1 was due to a queen being disqualified (Willam, Season 4, ep 8 of 14). 
+
+Additional Stats on Double Outcomes:
+- 5/6 double saves occurred in the 7-9 episode of the season (S9, injury, is the exception)
+- 9/12 (75%) of queens who were saved in doubles had at least 1 win of the season prior to the double save
+- 4/4 (100%) of queens who were eliminated in doubles had 0 wins of the season
+
 
