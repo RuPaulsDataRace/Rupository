@@ -56,5 +56,6 @@ Additional Stats on Double Outcomes:
 - 5/6 double saves occurred in the 7-9 episode of the season (S9, injury, is the exception)
 - 9/12 (75%) of queens who were saved in doubles had at least 1 win of the season prior to the double save
 - 4/4 (100%) of queens who were eliminated in doubles had 0 wins of the season
-
+- 50% of queens who were saved in doubles survived to the finale of the season (excl S9)
+- Queens saved in doubles survived an average of 78% of the rest of the episodes of the season (excl S9)
 
