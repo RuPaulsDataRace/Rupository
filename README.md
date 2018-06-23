@@ -17,11 +17,11 @@ How one episode affects the results of the next:
 
 |      | WIN   | HIGH | SAFE | LOW   | BTM2  | ELIM  |
 |------|-------|------|------|-------|-------|-------|
-| WIN  | 6.5%  | 25%  | 40%  | 11%   | 10%   | 6.5%  |
-| HIGH | 15%   | 26%  | 28%  | 11%   | 14%   | 6.5%  |
-| SAFE | 13%   | 21%  | 31%  | 11.5% | 12%   | 11%   |
-| LOW  | 12.5% | 26%  | 25%  | 9%    | 14.5% | 13.5% |
-| BTM2 | 17%   | 12%  | 23%  | 8%    | 12%   | 27%   |
+|**WIN**  | 6.5%  | 25%  | 40%  | 11%   | 10%   | 6.5%  |
+|**HIGH**| 15%   | 26%  | 28%  | 11%   | 14%   | 6.5%  |
+|**SAFE**| 13%   | 21%  | 31%  | 11.5% | 12%   | 11%   |
+|**LOW**| 12.5% | 26%  | 25%  | 9%    | 14.5% | 13.5% |
+|**BTM2**| 17%   | 12%  | 23%  | 8%    | 12%   | 27%   |
 
 Above is a table displaying the percentage of queens who had a result in an episode (vertical axis), and then had another result in the following episode (horizontal axis). So, as an example, 13% of queens who were safe in one episode went on to win the next episode. 
 Some highlights from this table:
