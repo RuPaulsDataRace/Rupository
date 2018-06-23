@@ -45,7 +45,16 @@ Basically, this table displays the percentage of queens who have survived LSFYL 
 Mini Challenges
 -----
 
-Ah, mini-challenges. Do they give the winner(s) an advantage? Do they hinder winners? I hope to do more analysis on this, but so far, I've found that **16%** of winners of mini-challenges have won the main challenge in the same episode, while **10%** have been eliminated in the same episode, so it would appear that winning has some benefit.
+Ah, mini-challenges. Do they give the winner(s) an advantage? Do they hinder winners? I hope to do more analysis on this, but so far, I've found that **16%** of winners of mini-challenges have won the main challenge in the same episode, while **10%** have been eliminated in the same episode, so it would appear that winning has some benefit. There have been 110 mini-challenges, and 69 mini-challenge winners. The queen with the most wins is Detox, from Season 5, with 5 wins. It should be noted that earlier seasons appear to have a larger number of mini-challenges, thus queens in later seasons have less opportunity to win multiple mcs.
+
+| # of Minichallenge Wins | # of Queens |
+|-------------------------|-------------|
+| 1                       | 43          |
+| 2                       | 16          |
+| 3                       | 6           |
+| 4                       | 3           |
+| 5                       | 1           |
+
 
 On Double Saves/Double Eliminations
 -----
