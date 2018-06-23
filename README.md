@@ -6,6 +6,7 @@ I've recently added a dataset taken from wikipedia and converted to CSV format. 
 For now, this repository will include updated statistics as I calculate them, but in the future, it will include more datasets for others to use and enjoy, along with a nicer website to display my findings. I hope you'll shante and stay to learn more!
 
 *Note: This data does not include data from All Stars Seasons due to differences in judging*
+
 *Additional Note: I am in no way affiliated with RuPaul's Drag Race, or World of Wonder. I'm merely a fan who loves math, data, and drag.*
 
 
