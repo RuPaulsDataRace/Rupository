@@ -43,6 +43,18 @@ Percentage of Surviving Queens Based on Number of Prior Lip Sync For Your Life (
 
 Basically, this table displays the percentage of queens who have survived LSFYL based on how many times the queens had previously LSFYL in that season. So, as you can see, almost 60% of queens will survive their first LSFYL, but none have survived a 4th.
 
+Percentage of Surviving Queens Based on Number of Prior Main Challenge Wins:
+-----
+
+| MC Wins | % Survival |
+|---------|------------|
+| 0       | 44%        |
+| 1       | 57.5%      |
+| 2       | 70%        |
+| 3       | 100%       |
+
+This table displays the percentage of queens who have survived a LSFYL based on how many times the queens had previously won a main challenge in that season. The table shows that even one MC win increases the chances of survival significantly.
+
 Mini Challenges
 -----
 
