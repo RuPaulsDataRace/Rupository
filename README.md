@@ -87,8 +87,8 @@ On Snatch Game
 Snatch Game is iconic. It's the challenge fans wait for every season. There has been much speculation regarding how Snatch Game results affect the rest of the season. So naturally, I made a dataset, and am spilling some Tea.
 
 - 41% of queens who survive Snatch Game will make it to the finale. This is simply because of where Snatch Game falls in the season.
-- 54% of queens who win or are high for Snatch game will go on to be in the finale.
-- 28% of queens who survive Snatch Game and are low or LSFYL during the Snatch game episode will make it to the finale.
+- 54% of queens who win or are high for Snatch game will go on to be in the finale, compared with 46% of queens who win at least one episode, and 31.5% of queens who will win or be high for at least one episode.
+- 28% of queens who survive Snatch Game and are low or LSFYL during the Snatch game episode will make it to the finale, compared with 31.5% of queens who LSFYL at least once, and 30.5% of queens who LSFYL or were low at least once.
 - 37% of queens who are safe in the Snatch Game episode will be in the finale.
 
 So, it does appear that doing well at Snatch Game has benefits, doing poorly has consequences, and being safe does very little. I could do a comparison of Season winners and results, but frankly, there are only 80 queens who have done Snatch Game, so dividing the dataset further would be a _choices_ situation.
