@@ -15,6 +15,7 @@ Some updates on what I've learned so far:
 
 How one episode affects the results of the next:
 -------
+![alt text](https://raw.githubusercontent.com/rupaulsdatarace/rupository/master/alluvialforrpdrresults.png)
 
 |      | WIN   | HIGH | SAFE | LOW   | BTM2  | ELIM  |
 |------|-------|------|------|-------|-------|-------|
