@@ -17,6 +17,8 @@ How one episode affects the results of the next:
 -------
 ![alt text](https://raw.githubusercontent.com/rupaulsdatarace/rupository/master/alluvialforrpdrresults.png)
 
+Here's a nifty alluvial graph I made with rawgraphs.io to represent the relationship between one episode and the next episode's results. On the left-hand side of the graph is the result from the first episode, and on the right is the result from the second episode. As an example, you can see that a large percentage of queens who are high in the 2nd episode were safe in the previous episode. If you're like me and you like numbers, see the chart below, and following discussion.
+
 |      | WIN   | HIGH | SAFE | LOW   | BTM2  | ELIM  |
 |------|-------|------|------|-------|-------|-------|
 |**WIN**  | 6.5%  | 25%  | 40%  | 11%   | 10%   | 6.5%  |
