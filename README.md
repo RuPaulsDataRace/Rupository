@@ -102,9 +102,9 @@ On First Episode Wins
 
 There have only been 10 first episodes. Drawing conclusions on that little data is silly, but this is a github account about analytics for a reality competition for drag queens, so I'm gonna go with it.
 
--70% of queens who won the first episode of their season made it to the finale of the show. Note that this does not hold for the last 2 seasons
--40% of queens who won the first episode won their season
--40% of queens who won their season were safe in the first episode
--0% of queens who LSFYL and survived in the first episode made it to the finale
--50% of queens who were eliminated in the 2nd episode of the season were safe in the first
--40% of queens who LSFYL and survived in the first episode were eliminated in the 2nd episode
+- 70% of queens who won the first episode of their season made it to the finale of the show. Note that this does not hold for the last 2 seasons
+- 40% of queens who won the first episode won their season
+- 40% of queens who won their season were safe in the first episode
+- 0% of queens who LSFYL and survived in the first episode made it to the finale
+- 50% of queens who were eliminated in the 2nd episode of the season were safe in the first
+- 40% of queens who LSFYL and survived in the first episode were eliminated in the 2nd episode
