@@ -46,8 +46,11 @@ Percentage of Surviving Queens Based on Number of Prior Lip Sync For Your Life (
 
 Basically, this table displays the percentage of queens who have survived LSFYL based on how many times the queens had previously LSFYL in that season. So, as you can see, almost 60% of queens will survive their first LSFYL, but none have survived a 4th.
 
+*You're probably wondering about Kameron Michaels' survival of what was technically her 4th lipsync in episode 12 of season 10. I don't count this as a LSFYL because all of the queens participated, and there was no "bottom 2" of the episode.*
+
 Percentage of Surviving Queens Based on Number of Prior Main Challenge Wins:
 -----
+ ![alt text](https://raw.githubusercontent.com/rupaulsdatarace/rupository/master/mcLSFYLSurvival.png)
 
 | MC Wins | % Survival |
 |---------|------------|
@@ -56,7 +59,7 @@ Percentage of Surviving Queens Based on Number of Prior Main Challenge Wins:
 | 2       | 70%        |
 | 3       | 100%       |
 
-This table displays the percentage of queens who have survived a LSFYL based on how many times the queens had previously won a main challenge in that season. The table shows that even one MC win increases the chances of survival significantly.
+This table (and graph) display the percentage of queens who have survived a LSFYL based on how many times the queens had previously won a main challenge in that season. The table shows that even one MC win increases the chances of survival significantly.
 
 Mini Challenges
 -----
