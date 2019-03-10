@@ -1,4 +1,4 @@
-# Rupository
+# RuPaul's Data Race: Rupository
 A series of analyses on data from the best reality competition on television, RuPaul's Drag Race
 
 I've recently added a dataset taken from wikipedia and converted to CSV format. The dataset contains the "results" for each queen in each episode, but currently does not include queens' names. More datasets will come in the future. If you'd like a dataset with the names, or minor changes, let me know, and I'm happy to provide.
